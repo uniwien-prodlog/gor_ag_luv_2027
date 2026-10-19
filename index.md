@@ -10,7 +10,7 @@ The German Operations Research Society working group for logistics and transport
 Thank you to  Dresdener Verkehrsbetriebe AG for hosting this year's GOR AG LuV workshop!
 
 
-{% include figure.html img="dvb-logo.jpg" alt="DVB AG logo" width="35%" %}
+{% include figure.html img="dvb-logo.jpg" alt="DVB AG logo" width="20%" %}
 
 ## Directions to the workshop location
 The workshop will take place in Dresden; more details will follow.
