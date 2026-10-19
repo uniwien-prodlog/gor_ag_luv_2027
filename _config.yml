@@ -10,16 +10,16 @@
 # title appears in the header
 title: GOR Arbeitsgruppe Logistik und Verkehr
 # description and keywords for meta tags
-description: "GOR Arbeitsgruppe LuV Workshop from 05.-06.03.26 at DXC Technologies in Düsseldorf."
+description: "GOR Arbeitsgruppe LuV Workshop from 18.-19.03.27 at DVB AG in Dresden."
 keywords: ""
 
 # author settings for cc-by, appears in the footer
-author: Prof. Dr. Kevin Tierney 
-pub_year: 2025
+author: Univ-Prof. Dr. Kevin Tierney 
+pub_year: 2026
 github_username: herrkevin
 
 # add the full url for the github repository
-repo: "https://github.com/dotbielefeld/gor_ag_luv_2026"
+repo: "https://github.com/dotbielefeld/gor_ag_luv_2027"
 
 # site urls
 # Optional if using GitHub Pages! If building manually, these must be set correctly.
